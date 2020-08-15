@@ -1,0 +1,26 @@
+- layout: top-middle
+    name: Project Team Thatsoo
+    link: 
+    github: github.com/shina07/thatsoo
+    quote: >
+        Que Sera Sera
+    description: | # this will include new lines to allow paragraphs
+        Project Team ThatSoo Webpage
+
+- layout: top-middle
+    name: NutriCube
+    link: 
+    github: github.com/shina07/nutricube
+    quote: >
+        
+    description: | # this will include new lines to allow paragraphs
+        Platform for comparing nutritional supplements
+
+- layout: top-middle
+    name: EveryQuant
+    link: 
+    github: github.com/shina07/everyquant
+    quote: >
+        
+    description: | # this will include new lines to allow paragraphs
+        Current project of team ThatSoo

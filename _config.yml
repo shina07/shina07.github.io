@@ -1,3 +1,54 @@
-theme: jekyll-theme-minimal
+# Site
+repository: shina07/shina07.github.io
+favicon: images/favicon.ico
 
-title: Shina07's Blog
+# Personal info
+name: Taesoo Lim
+title: Senior Network System Administrator
+email: limtsoo@kaist.ac.kr
+website: https://github.com/shina07/shina07.github.io
+
+# Social links
+github_username:  shina07
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: shina07_limtsoo
+# twitter_username: shina07
+# linkedin_username: jameswgrant
+# pinterest_username: jekyll
+# youtube_username: 
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
